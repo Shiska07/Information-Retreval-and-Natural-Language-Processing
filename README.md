@@ -1,1 +1,1 @@
-This repository contains projects that apply different methods of effective informations retreval from a collection of data/files.
+This repository contains projects that apply different methods of effective information retreval from a collection of data/files.
