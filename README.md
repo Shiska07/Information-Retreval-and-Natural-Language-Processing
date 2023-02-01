@@ -1,1 +1,1 @@
-This repository contains projects that apply different methods of effective information retreval from a collection of data/files.
+This repository contains various Natural Language Processing(Projects) implemented using the NLTK library and TensorFlow.
